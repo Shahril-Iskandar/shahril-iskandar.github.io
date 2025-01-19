@@ -10,32 +10,32 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-blog",
-          title: "blog",
+          title: "Blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/_pages/blog/index.html";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/_pages/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
+          title: "Repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/_pages/repositories/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -52,7 +52,7 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "nav-people",
-          title: "people",
+          title: "People",
           description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
@@ -65,8 +65,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-projects",
-              title: "projects",
+            },{id: "dropdown-repositories",
+              title: "repositories",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -507,6 +507,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0002-8037-2458", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Muhammad-Nur-Shahril-Iskandar/", "_blank");
         },
       },{
         id: 'social-rss',
