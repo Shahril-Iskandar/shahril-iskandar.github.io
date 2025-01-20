@@ -19,30 +19,18 @@
     {
       "name": "Agency for Science, Technology and Research, Bioinformatics Institute, Singapore",
       "position": "Research Intern",
-      "startDate": "2023-01-09",
-      "endDate": "2023-06-09",
+      "startDate": "2023-01",
+      "endDate": "2023-06",
       "highlights": ["Biomechanics", "Computer vision"]
     },
     {
       "name": "Nanyang Technological University, Singapore",
       "position": "Undergraduate Research Assistant",
-      "startDate": "2023-01-09",
-      "endDate": "2023-06-09",
+      "startDate": "2023-05",
+      "endDate": "2022-04",
       "highlights": ["Biomechanics", "Exoskeleton"]
     }  
   ],
-  // "volunteer": [
-  //   {
-  //     "organization": "People's Climate March",
-  //     "location": "Zurich, Switzerland",
-  //     "position": "Lead Organizer",
-  //     "url": "https://example.com",
-  //     "startDate": "2014-04-01",
-  //     "endDate": "2015-07-01",
-  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-  //   }
-  // ],
   "education": [
     {
       "institution": "Nanyang Technological University, Singapore",
@@ -54,22 +42,22 @@
       "endDate": "2023"
     }
   ],
-  // "awards": [
-  //   {
-  //     "title": "Nobel Prize in Physics",
-  //     "date": "1921-11-01",
-  //     "awarder": "Royal Swedish Academy of Sciences",
-  //     "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-  //     "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-  //   }
-  // ],
+  "awards": [
+    {
+      "title": "Best Thesis Oral Presentation Award",
+      "date": "2022",
+      "awarder": "Nanyang Technological University, Singapore",
+      "url": "https://drive.google.com/file/d/1mcvcseOSgvzBLQg3tZVkGyIOOxVw6gKw/view?usp=drive_link",
+      "summary": "Awarded by NTU at the 11th Lau Teng Chuan Physical Education & Sports Science Symposium.'"
+    }
+  ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Effectiveness of a passive military exoskeleton in off-loading weight during static and dynamic load carriage: A randomised cross-over study",
+      "publisher": "Applied Ergonomics",
+      "releaseDate": "2024-09-01",
+      "url": "https://www.researchgate.net/profile/Pui-Kong/publication/380356231_Effectiveness_of_a_passive_military_exoskeleton_in_off-loading_weight_during_static_and_dynamic_load_carriage_A_randomised_cross-over_study/links/66679cae85a4ee7261b6f150/Effectiveness-of-a-passive-military-exoskeleton-in-off-loading-weight-during-static-and-dynamic-load-carriage-A-randomised-cross-over-study.pdf",
+      "summary": "The passive military exoskeleton was effective in off-loading some load from the human body during static quiet standing but not dynamic walking on flat and sloped surfaces. The varied response across loads and participants calls for better design and fitting of the military exoskeleton to individual users."
     }
   ],
   "languages": [
