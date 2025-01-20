@@ -3,7 +3,6 @@ layout: profiles
 permalink: /people/
 title: People
 description: members of the lab or group
-nav: true
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
