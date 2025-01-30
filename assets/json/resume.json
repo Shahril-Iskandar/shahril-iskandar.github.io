@@ -14,14 +14,14 @@
       "position": "Senior Research Assistant",
       "startDate": "2023-08-16",
       "endDate": "2025-02-18",
-      "highlights": ["Biomechanics", "Systematic review"]
+      "highlights": ["Biomechanics", "Knee osteoarhritis"]
     },
     {
       "name": "Agency for Science, Technology and Research, Bioinformatics Institute, Singapore",
       "position": "Research Intern",
       "startDate": "2023-01",
       "endDate": "2023-06",
-      "highlights": ["Biomechanics", "Computer vision"]
+      "highlights": ["Biomechanics", "Gait analysis", "Computer vision"]
     },
     {
       "name": "Nanyang Technological University, Singapore",
@@ -77,19 +77,9 @@
       "name": "Biomechanics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Computation Biomechanics",
-        "Human Movement"
+        "Computational Biomechanics",
+        "Gait Analysis"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
