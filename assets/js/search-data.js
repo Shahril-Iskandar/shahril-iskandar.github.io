@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "You may view my full academic CV via the icon on the right.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -30,14 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "dropdown-publications",
-              title: "Publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-repositories",
+        },{id: "dropdown-repositories",
               title: "Repositories",
               description: "",
               section: "Dropdown",
